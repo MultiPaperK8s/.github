@@ -4,4 +4,4 @@ We make tools and Helm charts to make PureGero's MultiPaper, a distributed horiz
 
 ### Update 2023
 
-The project is **not** dead. Development has resumed again as of March 2023.
+The project is now officiall **dead**. Development was resumed again as of March 2023 but halted again late April 2023.
